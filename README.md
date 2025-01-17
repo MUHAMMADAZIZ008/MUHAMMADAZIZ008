@@ -35,20 +35,8 @@
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   />
   <img
-    alt="Vue.js"
-    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-  />
-  <img
-    alt="Vite"
-    src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
-  />
-  <img
     alt="Bootstrap"
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-  />
-  <img
-    alt="Redux"
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
   />
   <img
     alt="MySQL"
@@ -57,10 +45,6 @@
   <img
     alt="Postgresql"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-  />
-  <img
-    alt="JQuery"
-    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
   />
   <img
     alt="CSS3"
@@ -77,14 +61,6 @@
   <img
     alt="Webpack"
     src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"
-  />
-  <img
-    alt="Tailwind"
-    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-  />
-  <img
-    alt="Nuxt"
-    src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
   />
   <img
     alt="Postman"
