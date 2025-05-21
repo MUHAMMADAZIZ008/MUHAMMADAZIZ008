@@ -1,8 +1,17 @@
 # 🌟 Muhammadaziz G'ulomov
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" style="max-width: 100%; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode" style="max-width: 100%; border-radius: 8px;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode" />
+    </td>
+  </tr>
+</table>
+
 
 ### 📊 GitHub Stats
 ![Ismoil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMADAZIZ008&show_icons=true&theme=radical&count_private=true)
