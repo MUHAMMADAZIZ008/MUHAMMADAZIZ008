@@ -1,7 +1,8 @@
 # 🌟 Muhammadaziz G'ulomov
-**Full Stack Developer** | Building the Future of the Web  
-![Animated Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+<div>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
 
 ### 📊 GitHub Stats
 ![Ismoil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMADAZIZ008&show_icons=true&theme=radical&count_private=true)
